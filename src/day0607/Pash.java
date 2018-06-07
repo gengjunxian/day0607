@@ -1,5 +1,6 @@
 package day0607;
 
 public class Pash {
-	private String a ;
+	private String a ="str" ;
+	
 }
